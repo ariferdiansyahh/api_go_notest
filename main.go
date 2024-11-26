@@ -6,7 +6,7 @@ import (
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
-	 fmt.Fprintf(w, "Hello, World with New Response!")  // A different update
+	 fmt.Fprintf(w, "Hello, World with New Responseee!")  // A different update
 
 	 
 
